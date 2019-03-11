@@ -1,0 +1,30 @@
+User
+
+
+aswanth	aswanth@123
+kieserver	kieserver1!
+controllerUser	controllerUser1234
+anil	anil@123
+Administrator	Administrator@123
+kumar	kumar@123
+
+
+
+
+
+User Roles
+
+aswanth	admin	
+controllerUser	admin	
+kumar	kie-server	
+anil	developer	
+aswanth	kie-server	
+aswanth	rest-all	
+aswanth	developer	
+anil	kie-server	
+anil	rest-all	
+Administrator	Administrators	
+kumar	user	
+controllerUser	rest-all	
+controllerUser	kie-server	
+kumar	developer	
